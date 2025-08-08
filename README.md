@@ -12,6 +12,7 @@
 
 </center>
 
+
 ---
 
 # BLUX-cA
@@ -56,6 +57,28 @@ It aims to provide:
 - 💾 Flexible storage: use device, SD, or user-owned cloud (MEGA S4, GDrive, more)
 - 🖥️ CLI, TUI, and future GUI options
 - ⚡ Community package and agent hub
+
+---
+
+
+<div align="center">
+  <br/>
+
+  <b>BLUX-cA: Local-First Coding Agent</b>
+  <br/>
+  <i>Powered by the Liberation Framework — user-defined, persistent memory for ethical, modular AI.</i>
+
+</div>
+
+
+---
+
+> About BLUX-cA Local Memory
+BLUX-cA leverages the Liberation Framework to deliver truly user-defined, persistent memory.
+All context is saved and restored using simple, transparent .libf files—nothing is ever stored without your knowledge or consent.
+This system embodies the BLUX commitment to privacy, modularity, and user agency.
+
+
 
 ---
 
