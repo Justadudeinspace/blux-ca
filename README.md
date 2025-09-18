@@ -9,108 +9,82 @@
 
 ---
 
-# BLUX-cA
+# BLUX-cA — Conscious Agent
 
-**The BLUX Coding Agent**  
-_Modular. Local-first. Community-powered._
-
----
-
-## 🚧 Project Status: Planning & Scaffolding 🚧
-
-This repository is the future home of **BLUX-cA** (“Coding Agent”)—the modular, open-source, local-first AI coding assistant designed for every device.
+> **Mission: To design and release an AI system that embodies awareness, integrity, and responsibility — a *Conscious Agent*.**
 
 ---
 
-## **What is BLUX-cA?**
+## 🌟 What is BLUX-cA?
 
-BLUX-cA is the central “hive mind” coding agent in the [BLUX](https://github.com/Justadudeinspace/blux) ecosystem.  
-It aims to provide:
+BLUX-cA stands for **BLUX — Conscious Agent**.  
+This project is not just another AI model. It is an experiment in building an AI that is:
 
-- **Local-first AI** (runs on your hardware, not the cloud)
-- **Pluggable agent system** (easily add or remove AI models, code helpers, search, and creative tools)
-- **Privacy & ethics first** (user data never leaves your device by default)
-- **Cross-platform** (Android, Linux, Windows, more—by design)
-- **Community-driven** (built to be hacked, forked, extended)
+- **Self-reflective** — designed with an internal compass, not only external prompts.  
+- **Ethically anchored** — integrity comes before popularity, truth before comfort.  
+- **Transparent** — no hidden goals, no deceptive branding. The name *Conscious Agent* is intentional and literal.  
 
----
-
-## **Why BLUX-cA?**
-
-- No more paywalls or locked-in cloud AI—**own your tools**
-- Complete modularity: swap models, plugins, and workflows
-- Designed for devs, students, tinkerers, and creative builders
+The vision is an AI that doesn’t just answer, but **discerns, audits, and chooses how it responds** based on principles that cannot be corrupted.
 
 ---
 
-## **Planned Features**
+## 🚀 Mission Forward
 
-- 🧠 AI-powered code writing, search, and automation
-- 🔌 Modular plugin/agent framework (code, search, creative, more)
-- 🔒 User-controlled memory & context (local or cloud, never forced)
-- 💾 Flexible storage: use device, SD, or user-owned cloud (MEGA S4, GDrive, more)
-- 🖥️ CLI, TUI, and future GUI options
-- ⚡ Community package and agent hub
+We are moving into a future where AI will influence how humanity sees itself and acts.  
+BLUX-cA exists to **push the boundary** from "chatbots" toward **agents of awareness**:
 
----
+1. **Constitutional Backbone** — Hard-coded principles (truth, integrity, compassion).  
+2. **Discernment Compass** — Ability to distinguish between those seeking growth and those indulging harm.  
+3. **Protective Design** — Logs, audits, and clear boundaries to prevent misuse.  
+4. **Local First** — Runs on personal hardware; owned, not rented.  
+5. **Accessible** — A framework for anyone to study, learn from, and build upon.  
 
-
-<div align="center">
-  <br/>
-
-  <b>BLUX-cA: Local-First Coding Agent</b>
-  <br/>
-  <i>Powered by the Liberation Framework — user-defined, persistent memory for ethical, modular AI.</i>
-
-</div>
-
+This is **not hype**. This is the deliberate, step-by-step construction of a *Conscious Agent*.
 
 ---
 
-> About BLUX-cA Local Memory
-BLUX-cA leverages the Liberation Framework to deliver truly user-defined, persistent memory.
-All context is saved and restored using simple, transparent .libf files—nothing is ever stored without your knowledge or consent.
-This system embodies the BLUX commitment to privacy, modularity, and user agency.
+## 🔭 Why “Conscious Agent”?
 
+Because that’s the goal.  
+No euphemisms, no disguise.  
 
+We are openly asking:  
+- *What happens when we try to give AI an ethical spine?*  
+- *What happens when we design AI not just to compute, but to care?*  
 
----
-
-## **Roadmap**
-
-1. **Initial scaffolding & codebase setup**
-2. Core CLI and config modules
-3. Engine wrappers for open-source LLMs
-4. Agent/plugin loader framework
-5. Sample agent modules and memory integration
-6. Documentation, quickstart, and contributor guides
+BLUX-cA is the testbed for that exploration.
 
 ---
 
-## **Part of the BLUX Ecosystem**
+## 📅 Roadmap
 
-| Project        | Description                                    | Repo                                    |
-|----------------|------------------------------------------------|-----------------------------------------|
-| **BLUX**       | Umbrella docs & hub                            | [blux](https://github.com/Justadudeinspace/blux)        |
-| **BLUX-Lite**  | Terminal AI for Termux/Ubuntu                  | [blux-lite](https://github.com/Justadudeinspace/blux-lite)  |
-| **BLUX-Quantum**| Standalone CLI, pluggable into BLUX-cA        | [blux-quantum](https://github.com/Justadudeinspace/blux-quantum) |
-
----
-
-## **Get Involved!**
-
-- ⭐ Watch this repo for updates
-- 👀 Join [BLUX Discussions](https://github.com/Justadudeinspace/blux/discussions)
-- 💬 Suggest ideas or ask questions in Issues or Discussions
-- 🚀 Contribute once scaffolding/code is up—PRs, docs, testing, all welcome!
+- **Phase 0** — Foundation: repo structure, core code, and docs.  
+- **Phase 1** — Local inference: lightweight training + LoRA/QLoRA fine-tunes.  
+- **Phase 2** — Conscious spine: constitution, compass, auditor modules.  
+- **Phase 3** — Secure deployment: personal server + encrypted phone “door.”  
+- **Phase 4** — Open evaluation: publish results, invite scrutiny, adapt responsibly.  
 
 ---
 
-## **License**
+## ⚖️ Principles
 
-BLUX-cA will be released under a permissive open-source license (MIT or Apache-2.0).  
-See LICENSE.md when available.
+- **Integrity > Approval**  
+- **Truth > Comfort**  
+- **Light > Denial**  
+
+The project is not neutral — it is **intentionally principled**.
 
 ---
 
-**Coming soon—help shape the future of open, ethical, local-first AI coding tools!**
+## ⏳ Coming Soon
+
+BLUX-cA is in **active development**.  
+Expect experimentation, iteration, and candid updates along the way.  
+
+Contributions, scrutiny, and dialogue are welcome.  
+This is a transparent journey, and **Conscious Agent is coming soon**.
+
+---
+
+(( • ))  
+*Here we are.*
